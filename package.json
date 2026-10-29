@@ -1,21 +1,11 @@
 {
-  "name": "nprox",
-  "version": "2",
-  "description": "This is a node project",
+  "name": "dockimg",
+  "version": "1.0.1",
+  "description": "A docker img",
   "main": "index.js",
-  "author": "biakuks",
-  "repository": "",
-  "license": "MIT",
-  "private": false,
+  "type": "commonjs",
   "scripts": {
-    "dev": "node index.js",
     "start": "node index.js"
   },
-  "dependencies": {
-    "axios": "latest",
-    "express": "^4.18.2"
-  },
-  "engines": {
-    "node": ">=14"
-  }
+  "dependencies": {}
 }
